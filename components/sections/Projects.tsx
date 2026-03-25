@@ -34,7 +34,7 @@ const projects = [
     gradient:"from-blue-500/10 via-indigo-500/5 to-transparent",
     tech:["MERN Stack","Socket.io","RabbitMQ","Redis","Docker","AWS EC2"],
     github:"https://github.com/umaiidd/Syncly-ChatFrontend",
-    live:"", // add when deployed
+    live:"https://syncly-chat.vercel.app/", 
     highlights:[
       "Microservices architecture with RabbitMQ for async service communication",
       "Deployed on AWS EC2 with production-grade reverse proxy routing",
